@@ -1,3 +1,3 @@
-type,animal,car2bike,simpson,flower
-cnn,0.6917,0.945,0.8599,0.731
-knn,0.657,0.924,0.59,0.355
+Type,Animal,Simpson,Flower,Car & Bike
+cnn,0.6917,0.8599,0.731,0.945
+knn,0.657,0.59,0.355,0.924
