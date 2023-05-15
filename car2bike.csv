@@ -1,0 +1,3 @@
+type,accuracy,recall,f1-score,training-time,inference-time
+cnn,0.945,0.945,0.945,1339.53,0.689
+knn,0.924,0.955,0.924,0.04,0.45
